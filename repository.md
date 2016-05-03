@@ -64,25 +64,25 @@
 ##### Escolher LibreELEC: Tnds (Wetek_Play/arm) Add ons
 ![REPO](http://tnds82.tk/tutorials/images/repo19.JPG "REPO")
 
+##### Escolher uma das opções para instalar diversos addons
+![REPO](http://tnds82.tk/tutorials/images/repo20.JPG "REPO")
+
 ### Add-on Repository
 
 ##### Terão acesso a instalação de outros repositorios como Skins e Add-ons de video como Rato TV e Sem Bilhete
-![REPO](http://tnds82.tk/tutorials/images/repo20.JPG "REPO")
+![REPO](http://tnds82.tk/tutorials/images/repo21.JPG "REPO")
 
 ### Program add-ons
 
 ##### Terão acesso a instalação dos addons criados por mim
-![REPO](http://tnds82.tk/tutorials/images/repo21.JPG "REPO")
+![REPO](http://tnds82.tk/tutorials/images/repo22.JPG "REPO")
 
 ### Services
 
 ##### Tem acesso a instalação do Addon OScam e do Tvheadend 4.2
-![REPO](http://tnds82.tk/tutorials/images/repo22.JPG "REPO")
+![REPO](http://tnds82.tk/tutorials/images/repo23.JPG "REPO")
 
 ### Video add-ons
 
 ##### Tem acesso a addons de video ( Ex: Addon Youtube - versão com problema de procura corrigida )
-![REPO](http://tnds82.tk/tutorials/images/repo23.JPG "REPO")
-
-#####
 ![REPO](http://tnds82.tk/tutorials/images/repo24.JPG "REPO")
