@@ -15,7 +15,7 @@
 ##### Clicar em program add-ons
 ![TVH](http://tnds82.tk/tutorials/images/upt2.JPG "TVH")
 
-##### Escolher Config Tvheadend -> Clicar Install
+##### Escolher Update Tvheadend -> Clicar Install
 ![TVH](http://tnds82.tk/tutorials/images/upt3.JPG "TVH")
 
 ##### Voltar atrás e ir aos My Addons
@@ -24,7 +24,7 @@
 ##### Clicar no Program add-ons
 ![TVH](http://tnds82.tk/tutorials/images/upt5.JPG "TVH")
 
-##### Escolher Config Tvheadend LibreELEC e clicar para entrar
+##### Escolher Update Tvheadend LibreELEC e clicar para entrar
 ![TVH](http://tnds82.tk/tutorials/images/upt6.JPG "TVH")
 
 ##### Clicar em Configure
