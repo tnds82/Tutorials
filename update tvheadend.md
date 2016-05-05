@@ -30,11 +30,16 @@
 ##### Clicar em Configure
 ![TVH](http://tnds82.tk/tutorials/images/upt7.JPG "TVH")
 
-##### 
+##### Updates : Serve para actualizar as listas de canais e dos picons respectivos, activar o update channels and picons
 ![TVH](http://tnds82.tk/tutorials/images/upt8.JPG "TVH")
 
-##### 
+##### Escolher a lista que configuraram no addon Config Tvheadend OpenELEC / LibreELEC
 ![TVH](http://tnds82.tk/tutorials/images/upt9.JPG "TVH")
 
-##### 
+##### Por fim clicar em OK, para gravar as configurações efectuadas
 ![TVH](http://tnds82.tk/tutorials/images/upt10.JPG "TVH")
+
+### Apenas correr este addon quando receberem alguma informação que a lista de canais foi actualizada.
+
+#### Como verificar se a lista foi actualizada, sempre que o addon Config Tveadend OpenELEC / LibreELEC for actualizado no ecrã irá aparecer um info com a informação que o mesmo foi actualizado. Para ver o que foi actualizado deverão seguir os seguintes passos
+
