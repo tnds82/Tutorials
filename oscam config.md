@@ -39,12 +39,14 @@
 
 ##### Readers - Cada reader equivale a cada linha podem ser adicionadas até 5 readers
 ##### Enable Reader - Activar para adicionar linha
-##### Protocol - Escolher o protocolo da linha, opcções - CCCAM - NEWCAMD - CS357X
-##### Preencher os restantes dados solicitados
 ![TVH](http://tnds82.tk/tutorials/images/oscam10.JPG "TVH")
 
-##### OSCam User - Serve para adicionar utilizadores a quem vao dar linhas
+##### Protocol - Escolher o protocolo da linha, opcções - CCCAM - NEWCAMD - CS357X
+##### Preencher os restantes dados solicitados
 ![TVH](http://tnds82.tk/tutorials/images/oscam11.JPG "TVH")
 
-##### Activar apenas esta função se realmente quiserem criar utilizadores podem ser criados até 5 utilizadores. E preencher os dados solicitados
+##### OSCam User - Serve para adicionar utilizadores a quem vao dar linhas
 ![TVH](http://tnds82.tk/tutorials/images/oscam12.JPG "TVH")
+
+##### Activar apenas esta função se realmente quiserem criar utilizadores podem ser criados até 5 utilizadores. E preencher os dados solicitados
+![TVH](http://tnds82.tk/tutorials/images/oscam13.JPG "TVH")
