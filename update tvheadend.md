@@ -29,3 +29,12 @@
 
 ##### Clicar em Configure
 ![TVH](http://tnds82.tk/tutorials/images/upt7.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt8.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt9.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt10.JPG "TVH")
