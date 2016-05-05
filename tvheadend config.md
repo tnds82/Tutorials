@@ -89,3 +89,5 @@
 
 ##### E quando terminar vai aparecer a informação para fazer Restart. Depois de fazer Restar deverão configurar o PVR - Tvheadend Client HTPS
 ![TVH](http://tnds82.tk/tutorials/images/tvh27.JPG "TVH")
+
+### No PVR devem apenas colocar o ip da maquina e caso tenham colocado username e password no cliente deveram colocar as mesmas aqui. O resto já se encontra tudo configurado. Ir de seguida ao SYSTEM -> TV -> Colocar no modo expert e no General e escolher Synchronise channel groups -> Use channel order -> Use channel numbers e por fim clicar em Enable
