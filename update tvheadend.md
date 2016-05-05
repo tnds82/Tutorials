@@ -10,22 +10,22 @@
 #### Exemplo : Repositorio LibreELEC: Tnds (Wetek_Play/arm) add ons
 
 ##### Entrar no Repositorio para instalar o addon
-![TVH](http://tnds82.tk/tutorials/images/tvh1.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt1.JPG "TVH")
 
 ##### Clicar em program add-ons
-![TVH](http://tnds82.tk/tutorials/images/tvh2.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt2.JPG "TVH")
 
 ##### Escolher Config Tvheadend -> Clicar Install
-![TVH](http://tnds82.tk/tutorials/images/tvh3.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt3.JPG "TVH")
 
 ##### Voltar atrás e ir aos My Addons
-![TVH](http://tnds82.tk/tutorials/images/tvh4.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt4.JPG "TVH")
 
 ##### Clicar no Program add-ons
-![TVH](http://tnds82.tk/tutorials/images/tvh5.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt5.JPG "TVH")
 
 ##### Escolher Config Tvheadend LibreELEC e clicar para entrar
-![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt6.JPG "TVH")
 
 ##### Clicar em Configure
-![TVH](http://tnds82.tk/tutorials/images/tvh7.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt7.JPG "TVH")
