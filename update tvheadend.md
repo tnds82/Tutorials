@@ -58,17 +58,17 @@
 ##### Escolher Config Tvheadend LibreELEC e clicar para entrar
 ![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
 
-##### 
+##### Clicar em changelog para ver o que foi actualizado
 ![TVH](http://tnds82.tk/tutorials/images/upt11.JPG "TVH")
 
-##### 
+##### Changelog - Se verificarem que foi actualizada a lista de canais que tem configurado no Update Tvheadend ir para o proximo passo
 ![TVH](http://tnds82.tk/tutorials/images/upt12.JPG "TVH")
 
-##### 
+##### No menu principal escolher programas
 ![TVH](http://tnds82.tk/tutorials/images/upt13.JPG "TVH")
 
-##### 
+##### E clicar no addon Update Tveadend OpenELEC / LibreELEC e automaticamente ele ira executar o addon e fazer o update da lista de canais e dos picons
 ![TVH](http://tnds82.tk/tutorials/images/upt14.JPG "TVH")
 
-##### 
+##### Quando terminar vai aparecer a informação para fazer Restart
 ![TVH](http://tnds82.tk/tutorials/images/upt15.JPG "TVH")
