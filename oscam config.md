@@ -50,3 +50,12 @@
 
 ##### Activar apenas esta função se realmente quiserem criar utilizadores podem ser criados até 5 utilizadores. E preencher os dados solicitados
 ![TVH](http://tnds82.tk/tutorials/images/oscam13.JPG "TVH")
+
+##### Por fim clicar em OK, para gravar todas as configurações efectuadas
+![TVH](http://tnds82.tk/tutorials/images/oscam14.JPG "TVH")
+
+##### Clicar em Run para executar o addon
+![TVH](http://tnds82.tk/tutorials/images/oscam15.JPG "TVH")
+
+##### E quando terminar vai aparecer a informação para fazer Restart
+![TVH](http://tnds82.tk/tutorials/images/oscam16.JPG "TVH")
