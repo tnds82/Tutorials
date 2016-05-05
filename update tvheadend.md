@@ -43,3 +43,32 @@
 
 #### Como verificar se a lista foi actualizada, sempre que o addon Config Tveadend OpenELEC / LibreELEC for actualizado no ecrã irá aparecer um info com a informação que o mesmo foi actualizado. Para ver o que foi actualizado deverão seguir os seguintes passos
 
+##### Ir ao SYSTEM
+![REPO](http://tnds82.tk/tutorials/images/repo6.JPG "REPO")
+
+##### Clicar em Add-ons
+![REPO](http://tnds82.tk/tutorials/images/repo7.JPG "REPO")
+
+##### Clicar em My Addons
+![TVH](http://tnds82.tk/tutorials/images/tvh4.JPG "TVH")
+
+##### Clicar no Program add-ons
+![TVH](http://tnds82.tk/tutorials/images/tvh5.JPG "TVH")
+
+##### Escolher Config Tvheadend LibreELEC e clicar para entrar
+![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt11.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt12.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt13.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt14.JPG "TVH")
+
+##### 
+![TVH](http://tnds82.tk/tutorials/images/upt15.JPG "TVH")
