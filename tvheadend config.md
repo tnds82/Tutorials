@@ -68,13 +68,13 @@
 ![TVH](http://tnds82.tk/tutorials/images/tvh19.JPG "TVH")
 
 ##### Softcam Config - Serve para configurar o CAs
-![TVH](http://tnds82.tk/tutorials/images/tvh20.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/tvh30.JPG "TVH")
 
 ##### Activar o mesmo caso desejem configurar. Caso tenham uma Wetek ou Outro Equipamento e utilizem no proprio equipamento o Addon Oscam deixar nesta configuração "Oscam inside de box" e apenas colocar o ip da Wetek ou do outro equipamento
-![TVH](http://tnds82.tk/tutorials/images/tvh21.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/tvh31.JPG "TVH")
 
 ##### Caso tenham o oscam noutro equipamento deverao activar a funçao "Oscam outside the box" e deveram escolher o nome do dvbapi, colocar o IP da maquina que tem o oscam e colocar a porta que tem definida para o dvbapi
-![TVH](http://tnds82.tk/tutorials/images/tvh22.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/tvh32.JPG "TVH")
 
 ##### Recordings - Menu de configuração das gravaçoes que desejarem fazer dos canais, activar apenas se desejarem
 ![TVH](http://tnds82.tk/tutorials/images/tvh23.JPG "TVH")
