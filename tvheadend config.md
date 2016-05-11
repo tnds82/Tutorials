@@ -1,7 +1,8 @@
 ## Tutorial: Addon Config Tvheadend OpenELEC / LibreELEC
 
-##### ALERTA: Para o addon funcionar tem de primeiro instalar o addon TvHeadend 4.2 que se encontra nos Services
+##### ALERTA: Para o addon funcionar tem de primeiro instalar o addon TvHeadend 4.2 e o PVR Tvheadend HTSP Client que se encontra nos Services e no PVR.
 
+#### Antes de começar a configurar o addon ver primeiro qual o IP que a box tem
 
 ### Instalar addon Config Tvheadend
 
@@ -66,13 +67,13 @@
 ##### Activar Rpi2 / Generic x64  Caso estejam a utilizar uma RPi2 ou 3 ou um Computador normal com OpenELEC ou LibreELEC instalado e escolher quantas placas tem ligadas, sejam DVB-C ou DVB-S
 ![TVH](http://tnds82.tk/tutorials/images/tvh19.JPG "TVH")
 
-##### Softcam Confi - Serve para configurar o CAs
+##### Softcam Config - Serve para configurar o CAs
 ![TVH](http://tnds82.tk/tutorials/images/tvh20.JPG "TVH")
 
-##### Activar o mesmo caso desejem configurar, caso tenham um Wetek ou Outro Equipamento e utilizem no proprio equipamento o Oscam deixar nesta configuração e apenas escolher o nome que querem dar a essa configuração
+##### Activar o mesmo caso desejem configurar. Caso tenham uma Wetek ou Outro Equipamento e utilizem no proprio equipamento o Addon Oscam deixar nesta configuração "Oscam inside de box" e apenas colocar o ip da Wetek ou do outro equipamento
 ![TVH](http://tnds82.tk/tutorials/images/tvh21.JPG "TVH")
 
-##### Caso tenham o oscam noutro equipamento deverao activar a funcao Oscam TCP e deveram escolher o nome da config escolhida, colocar o IP da maquina que tem o oscam e colocar a porta que tem definida para o dvbapi
+##### Caso tenham o oscam noutro equipamento deverao activar a funçao "Oscam outside the box" e deveram escolher o nome do dvbapi, colocar o IP da maquina que tem o oscam e colocar a porta que tem definida para o dvbapi
 ![TVH](http://tnds82.tk/tutorials/images/tvh22.JPG "TVH")
 
 ##### Recordings - Menu de configuração das gravaçoes que desejarem fazer dos canais, activar apenas se desejarem
@@ -90,4 +91,8 @@
 ##### E quando terminar vai aparecer a informação para fazer Restart. Depois de fazer Restar deverão configurar o PVR - Tvheadend Client HTPS
 ![TVH](http://tnds82.tk/tutorials/images/tvh27.JPG "TVH")
 
-### No PVR devem apenas colocar o ip da maquina e caso tenham colocado username e password no cliente deveram colocar as mesmas aqui. O resto já se encontra tudo configurado. Ir de seguida ao SYSTEM -> TV -> Colocar no modo expert e no General e escolher Synchronise channel groups -> Use channel order -> Use channel numbers e por fim clicar em Enable
+##### PVR Config - Serve para configurar logo o cliente PVR e activar o live tv no kodi
+![TVH](http://tnds82.tk/tutorials/images/tvh28.JPG "TVH")
+
+##### Activar o cliente PVR - deixar tudo o que se encontra ja activo activo e colocar o ip da Wetek ou de outro equipamento que estejam a utilizar
+![TVH](http://tnds82.tk/tutorials/images/tvh29.JPG "TVH")
