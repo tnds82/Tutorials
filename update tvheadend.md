@@ -38,7 +38,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/upt9_1.JPG "TVH")
 
 ##### Por fim clicar em OK, para gravar as configurações efectuadas
-![TVH](http://tnds82.tk/tutorials/images/upt10.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt10_1.JPG "TVH")
 
 ### Apenas correr este addon quando receberem alguma informação que a lista de canais foi actualizada.
 
