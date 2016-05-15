@@ -49,6 +49,12 @@
 ##### Vai aparecer uma mensagem se querem actualizar o canais. Apenas colocar sim se receberem a informação que a lista de canais foi actualizada. Ver mais abaixo como verificar se a lista que escolheram foi actualizada 
 ![TVH](http://tnds82.tk/tutorials/images/upt18.JPG "TVH")
 
+##### Logo de seguida vai aparecer uma mensagem se querem actualizar o ip. Se é isso que pretendem então escolham sim.
+##### Alerta nunca ir ao addon Config Tvheadend OpenELEC / LibreELEC mudar o ip. Este addon vai alterar o IP e vai sempre se basear no addon Config para que assim possam sempre trocar de IP as vezes necessárias
+![TVH](http://tnds82.tk/tutorials/images/upt19.JPG "TVH")
+
+##### Quando terminar vai aparecer a informação para fazer Restart
+![TVH](http://tnds82.tk/tutorials/images/upt15.JPG "TVH")
 
 #### Como verificar se a lista foi actualizada, sempre que o addon Config Tveadend OpenELEC / LibreELEC for actualizado no ecrã irá aparecer um info com a informação que o mesmo foi actualizado. Para ver o que foi actualizado deverão seguir os seguintes passos
 
@@ -73,11 +79,3 @@
 ##### Changelog - Se verificarem que foi actualizada a lista de canais que tem configurado no Update Tvheadend ir para o proximo passo
 ![TVH](http://tnds82.tk/tutorials/images/upt12.JPG "TVH")
 
-##### No menu principal escolher programas
-![TVH](http://tnds82.tk/tutorials/images/upt13.JPG "TVH")
-
-##### E clicar no addon Update Tveadend OpenELEC / LibreELEC e automaticamente ele ira executar o addon e fazer o update da lista de canais e dos picons
-![TVH](http://tnds82.tk/tutorials/images/upt14.JPG "TVH")
-
-##### Quando terminar vai aparecer a informação para fazer Restart
-![TVH](http://tnds82.tk/tutorials/images/upt15.JPG "TVH")
