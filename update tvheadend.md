@@ -32,7 +32,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/upt7_1.JPG "TVH")
 
 ##### Updates : Serve para actualizar as listas de canais e dos picons respectivos, activar o update channels and picons
-![TVH](http://tnds82.tk/tutorials/images/upt8.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt8_1.JPG "TVH")
 
 ##### Escolher a lista que configuraram no addon Config Tvheadend OpenELEC / LibreELEC
 ![TVH](http://tnds82.tk/tutorials/images/upt9.JPG "TVH")
