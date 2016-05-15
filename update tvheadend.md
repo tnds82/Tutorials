@@ -37,11 +37,11 @@
 ##### Escolher a lista que configuraram no addon Config Tvheadend OpenELEC / LibreELEC
 ![TVH](http://tnds82.tk/tutorials/images/upt9_1.JPG "TVH")
 
-##### Por fim clicar em OK, para gravar as configurações efectuadas
-![TVH](http://tnds82.tk/tutorials/images/upt10_1.JPG "TVH")
+##### Update IP - Activar a troca de ip e colocar o novo ip da box
+![TVH](http://tnds82.tk/tutorials/images/upt16.JPG "TVH")
 
 ##### Por fim clicar em OK, para gravar as configurações efectuadas
-![TVH](http://tnds82.tk/tutorials/images/upt16.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt10_1.JPG "TVH")
 
 ##### Por fim clicar em OK, para gravar as configurações efectuadas
 ![TVH](http://tnds82.tk/tutorials/images/upt17.JPG "TVH")
