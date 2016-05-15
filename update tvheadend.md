@@ -26,10 +26,10 @@
 ![TVH](http://tnds82.tk/tutorials/images/upt5.JPG "TVH")
 
 ##### Escolher Update Tvheadend LibreELEC e clicar para entrar
-![TVH](http://tnds82.tk/tutorials/images/upt6.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt6_1.JPG "TVH")
 
 ##### Clicar em Configure
-![TVH](http://tnds82.tk/tutorials/images/upt7.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt7_1.JPG "TVH")
 
 ##### Updates : Serve para actualizar as listas de canais e dos picons respectivos, activar o update channels and picons
 ![TVH](http://tnds82.tk/tutorials/images/upt8.JPG "TVH")
