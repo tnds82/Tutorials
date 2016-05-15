@@ -40,6 +40,15 @@
 ##### Por fim clicar em OK, para gravar as configurações efectuadas
 ![TVH](http://tnds82.tk/tutorials/images/upt10_1.JPG "TVH")
 
+##### Por fim clicar em OK, para gravar as configurações efectuadas
+![TVH](http://tnds82.tk/tutorials/images/upt16.JPG "TVH")
+
+##### Por fim clicar em OK, para gravar as configurações efectuadas
+![TVH](http://tnds82.tk/tutorials/images/upt17.JPG "TVH")
+
+##### Por fim clicar em OK, para gravar as configurações efectuadas
+![TVH](http://tnds82.tk/tutorials/images/upt18.JPG "TVH")
+
 ### Apenas correr este addon quando receberem alguma informação que a lista de canais foi actualizada.
 
 #### Como verificar se a lista foi actualizada, sempre que o addon Config Tveadend OpenELEC / LibreELEC for actualizado no ecrã irá aparecer um info com a informação que o mesmo foi actualizado. Para ver o que foi actualizado deverão seguir os seguintes passos
