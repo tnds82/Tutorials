@@ -45,8 +45,14 @@
 ##### Login cliente deve ficar como activado se activarem o administrador. Nao tem qualquer acesso ao interface grafico porem tem acesso ao stream, pode ser criado username e password ou não, caso nao seja criado username nem password o Tvheadend Client HTSP não necessita ter usernamen nem password
 ![TVH](http://tnds82.tk/tutorials/images/tvh12.JPG "TVH")
 
-##### Channels - Deverão escolher a lista de canais pretendida conforme a placa que tem se é DVB-S ou DVB-C, se tiverem ambas tem uma lista com ambas
-![TVH](http://tnds82.tk/tutorials/images/tvh13.JPG "TVH")
+##### Channels - Deverão activar a os canais para poderem escolher a lista pretendida.
+![TVH](http://tnds82.tk/tutorials/images/tvh13_1.PNG "TVH")
+
+##### DVB-C - Listas disponiveis para cabo
+![TVH](http://tnds82.tk/tutorials/images/tvh13_2.PNG "TVH")
+
+##### DVB-S - Listas disponiveis para satelite
+![TVH](http://tnds82.tk/tutorials/images/tvh13_3.PNG "TVH")
 
 ##### Picons - Deverão activar os mesmos caso desejem ter os logos dos canais
 ![TVH](http://tnds82.tk/tutorials/images/tvh14.JPG "TVH")
