@@ -29,7 +29,11 @@
 ![TVH](http://tnds82.tk/tutorials/images/upt8_2.PNG "TVH")
 
 ##### Escolher a lista que configuraram no addon Config Tvheadend OpenELEC / LibreELEC
-![TVH](http://tnds82.tk/tutorials/images/upt9_1.JPG "TVH")
+###### DVB-C - Canais Cabo
+![TVH](http://tnds82.tk/tutorials/images/upt9.PNG "TVH")
+
+###### DVB-S - Canais Satelite
+![TVH](http://tnds82.tk/tutorials/images/upt9.PNG "TVH")
 
 ##### Update IP - Activar a troca de ip e colocar o novo ip da box
 ![TVH](http://tnds82.tk/tutorials/images/upt16.JPG "TVH")
