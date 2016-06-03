@@ -1,7 +1,5 @@
 ## Tutorial: Addon Config Tvheadend OpenELEC / LibreELEC
 
-##### ALERTA: Para o addon funcionar tem de primeiro instalar o addon TvHeadend 4.2 e o PVR Tvheadend HTSP Client que se encontra nos Services e no PVR.
-
 #### Antes de começar a configurar o addon ver primeiro qual o IP que a box tem
 
 ### Instalar addon Config Tvheadend
@@ -17,11 +15,11 @@
 ##### Escolher Config Tvheadend -> Clicar Install
 ![TVH](http://tnds82.tk/tutorials/images/tvh3_1.PNG "TVH")
 
-##### Voltar atrás e ir aos My Addons
-![TVH](http://tnds82.tk/tutorials/images/tvh4.JPG "TVH")
+##### Voltar atrás e clicar nos Programs para entrar na barra principal
+![TVH](http://tnds82.tk/tutorials/images/tvh4_1.PNG "TVH")
 
-##### Clicar no Program add-ons
-![TVH](http://tnds82.tk/tutorials/images/tvh5.JPG "TVH")
+##### Dentro dos Programs clicar para arrancar o Config Tvheadend
+![TVH](http://tnds82.tk/tutorials/images/tvh5_1.JPG "TVH")
 
 ##### Escolher Config Tvheadend LibreELEC e clicar para entrar
 ![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
