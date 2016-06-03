@@ -96,14 +96,6 @@
 ##### Por fim clicar em OK, para gravar todas as configurações efectuadas
 ![TVH](http://tnds82.tk/tutorials/images/tvh25.JPG "TVH")
 
-##### Clicar em Run para executar o addon
-![TVH](http://tnds82.tk/tutorials/images/tvh26.JPG "TVH")
-
-##### E quando terminar vai aparecer a informação para fazer Restart. Depois de fazer Restar deverão configurar o PVR - Tvheadend Client HTPS
+##### E quando terminar vai aparecer a informação para fazer Restart. Depois de fazer Restart, vamos usufruir
 ![TVH](http://tnds82.tk/tutorials/images/tvh27.JPG "TVH")
 
-##### PVR Config - Serve para configurar logo o cliente PVR e activar o live tv no kodi
-![TVH](http://tnds82.tk/tutorials/images/tvh28.JPG "TVH")
-
-##### Activar o cliente PVR - deixar tudo o que se encontra ja activo activo e colocar o ip da Wetek ou de outro equipamento que estejam a utilizar
-![TVH](http://tnds82.tk/tutorials/images/tvh29.JPG "TVH")
