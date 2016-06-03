@@ -39,7 +39,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/upt16.JPG "TVH")
 
 ##### Por fim clicar em OK e o programa vai executar. 
-![TVH](http://tnds82.tk/tutorials/images/upt10_1.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt10_2.PNG "TVH")
 
 ##### Vai aparecer uma mensagem se querem actualizar o canais. Caso escolham sim para as verificar actualizações da lista escolhida ele irá fazer uma verificação com o servidor e a lista que se encontra no equipamento caso exista nova actualização vai fazer o update, caso não existe nova actualização vai aparecer um alerta com essa informação
 ![TVH](http://tnds82.tk/tutorials/images/upt18.JPG "TVH")
