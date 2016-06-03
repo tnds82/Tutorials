@@ -67,6 +67,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/tvh17.JPG "TVH")
 
 ##### Activar Wetek Play se tiverem uma Wetek Play e escolher se é DVB-S ou DVB-C
+####### Nota: Se for activado o DVB-S quando no final fizerem ok e o addon arrancar vai aparecer uma imagem para escolherem qual o LNB que devem activar
 ![TVH](http://tnds82.tk/tutorials/images/tvh18.JPG "TVH")
 
 ##### Activar Rpi2 / Generic x64  Caso estejam a utilizar uma RPi2 ou 3 ou um Computador normal com OpenELEC ou LibreELEC instalado e escolher quantas placas tem ligadas, sejam DVB-C ou DVB-S
