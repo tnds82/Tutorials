@@ -38,13 +38,10 @@
 ##### Update IP - Activar a troca de ip e colocar o novo ip da box
 ![TVH](http://tnds82.tk/tutorials/images/upt16.JPG "TVH")
 
-##### Por fim clicar em OK, para gravar as configurações efectuadas
+##### Por fim clicar em OK e o programa vai executar. 
 ![TVH](http://tnds82.tk/tutorials/images/upt10_1.JPG "TVH")
 
-##### Executar o addon
-![TVH](http://tnds82.tk/tutorials/images/upt17.JPG "TVH")
-
-##### Vai aparecer uma mensagem se querem actualizar o canais. Apenas colocar sim se receberem a informação que a lista de canais foi actualizada. Ver mais abaixo como verificar se a lista que escolheram foi actualizada 
+##### Vai aparecer uma mensagem se querem actualizar o canais. Caso escolham sim para as verificar actualizações da lista escolhida ele irá fazer uma verificação com o servidor e a lista que se encontra no equipamento caso exista nova actualização vai fazer o update, caso não existe nova actualização vai aparecer um alerta com essa informação
 ![TVH](http://tnds82.tk/tutorials/images/upt18.JPG "TVH")
 
 ##### Logo de seguida vai aparecer uma mensagem se querem actualizar o ip. Se é isso que pretendem então escolham sim.
@@ -53,27 +50,3 @@
 
 ##### Quando terminar vai aparecer a informação para fazer Restart
 ![TVH](http://tnds82.tk/tutorials/images/upt15.JPG "TVH")
-
-#### Como verificar se a lista foi actualizada, sempre que o addon Config Tveadend OpenELEC / LibreELEC for actualizado no ecrã irá aparecer um info com a informação que o mesmo foi actualizado. Para ver o que foi actualizado deverão seguir os seguintes passos
-
-##### Ir ao SYSTEM
-![REPO](http://tnds82.tk/tutorials/images/repo6.JPG "REPO")
-
-##### Clicar em Add-ons
-![REPO](http://tnds82.tk/tutorials/images/repo7.JPG "REPO")
-
-##### Clicar em My Addons
-![TVH](http://tnds82.tk/tutorials/images/tvh4.JPG "TVH")
-
-##### Clicar no Program add-ons
-![TVH](http://tnds82.tk/tutorials/images/tvh5.JPG "TVH")
-
-##### Escolher Config Tvheadend LibreELEC e clicar para entrar
-![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
-
-##### Clicar em changelog para ver o que foi actualizado
-![TVH](http://tnds82.tk/tutorials/images/upt11.JPG "TVH")
-
-##### Changelog - Se verificarem que foi actualizada a lista de canais que tem configurado no Update Tvheadend ir para o proximo passo
-![TVH](http://tnds82.tk/tutorials/images/upt12.JPG "TVH")
-
