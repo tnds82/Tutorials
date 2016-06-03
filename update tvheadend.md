@@ -1,9 +1,9 @@
 ## Tutorial: Addon Update Tvheadend OpenELEC / LibreELEC
 
-#### Este addon serve para actualizar novas listas e novos picons que saiam no addon Config Tvheadend OpenELEC / LibreELEC
+#### Este addon serve para actualizar novas listas e novos picons que estejam disponiveis no servidor
 #### Nova funcionalidade do addon actualizar o IP da box caso a mesma deixe de ter o IP que foi configurado no addon Config Tvheadend OpenELEC / LibreELEC
 
-##### ALERTA: Para o addon funcionar tem de estar instalado o addon Config Tvheadend OpenELEC / LibreELEC, sem ele o mesmo nao actualizada nem os canais nem os picons
+##### ALERTA: Para o addon funcionar tem de estar instalado o addon Config Tvheadend OpenELEC / LibreELEC, sem ele o mesmo nao actualizada o IP.
 
 
 ### Instalar addon Update Tvheadend
