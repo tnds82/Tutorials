@@ -21,11 +21,12 @@
 ##### Dentro dos Programs clicar para arrancar o Config Tvheadend
 ![TVH](http://tnds82.tk/tutorials/images/tvh5_1.PNG "TVH")
 
-##### Escolher Config Tvheadend LibreELEC e clicar para entrar
-![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
+##### Addon vai logo arrancar para podermos fazer a config
+![TVH](http://tnds82.tk/tutorials/images/tvh6_1.PNG "TVH")
 
-##### Clicar em Configure
-![TVH](http://tnds82.tk/tutorials/images/tvh7.JPG "TVH")
+##### Começar por instalar os addons necessarios clicando no Tvheadend 4.2 e Tvheadend HTSP Client
+###### Vai aparecer informação que está a fazer download e no final aparece alerta que foi instalado
+![TVH](http://tnds82.tk/tutorials/images/tvh7_1.PNG "TVH")
 
 ##### Em General Configuration - Activar "Enable Configuration"
 ![TVH](http://tnds82.tk/tutorials/images/tvh8.JPG "TVH")
