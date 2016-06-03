@@ -20,7 +20,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/upt3_1.PNG "TVH")
 
 ##### No menu principal clicar em Programs
-![TVH](http://tnds82.tk/tutorials/images/upt4_!.PNG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/upt4_1.PNG "TVH")
 
 ##### Clicar no Update Tvheadend para o addon arrancar, vai logo aparecer o menu de configuração
 ![TVH](http://tnds82.tk/tutorials/images/upt5_1.PNG "TVH")
