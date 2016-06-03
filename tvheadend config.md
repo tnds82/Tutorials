@@ -15,7 +15,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/tvh2.JPG "TVH")
 
 ##### Escolher Config Tvheadend -> Clicar Install
-![TVH](http://tnds82.tk/tutorials/images/tvh3.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/tvh3_1.JPG "TVH")
 
 ##### Voltar atrás e ir aos My Addons
 ![TVH](http://tnds82.tk/tutorials/images/tvh4.JPG "TVH")
