@@ -42,7 +42,8 @@
 ![TVH](http://tnds82.tk/tutorials/images/tvh11.JPG "TVH")
 
 ##### Login administrador ao ser activado devem colocar username e password e vai ter acesso a toda a interface web e pode alterar e configurar qualquer coisa no tvheadend. Aconselhado para protecção do vosso tvheadend
-##### Login cliente deve ficar como activado se activarem o administrador. Nao tem qualquer acesso ao interface grafico porem tem acesso ao stream, pode ser criado username e password ou não, caso nao seja criado username nem password o Tvheadend Client HTSP não necessita ter usernamen nem password
+##### Login cliente deve ficar como activado se activarem o administrador. Nao tem qualquer acesso ao interface grafico porem tem acesso ao stream, pode ser criado username e password ou não, caso nao seja criado username nem password o Tvheadend Client HTSP não necessita ter username nem password
+###### A configuração “ideal” será criar um user para o admin e respectiva password, mantendo o login client simplesmente activado tal como aparece na imagem.
 ![TVH](http://tnds82.tk/tutorials/images/tvh12.JPG "TVH")
 
 ##### Channels - Deverão activar a os canais para poderem escolher a lista pretendida.
