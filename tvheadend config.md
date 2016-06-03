@@ -19,7 +19,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/tvh4_1.PNG "TVH")
 
 ##### Dentro dos Programs clicar para arrancar o Config Tvheadend
-![TVH](http://tnds82.tk/tutorials/images/tvh5_1.JPG "TVH")
+![TVH](http://tnds82.tk/tutorials/images/tvh5_1.PNG "TVH")
 
 ##### Escolher Config Tvheadend LibreELEC e clicar para entrar
 ![TVH](http://tnds82.tk/tutorials/images/tvh6.JPG "TVH")
