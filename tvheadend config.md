@@ -86,7 +86,7 @@
 ##### Recordings - Menu de configuração das gravaçoes que desejarem fazer dos canais, activar apenas se desejarem
 ![TVH](http://tnds82.tk/tutorials/images/tvh23.JPG "TVH")
 
-##### Caso que as vossas gravações seja efectuadas em MKV deverão activar esta função caso não desejem fica predefinido o modo default. Escolher o caminho para onde desejam que vão as vossas gravações
+##### Caso as vossas gravações seja efectuadas em MKV deverão activar esta função caso não desejem fica predefinido o modo default. Escolher o caminho para onde desejam que vão as vossas gravações
 ![TVH](http://tnds82.tk/tutorials/images/tvh24.JPG "TVH")
 
 ##### PVR Config - Serve para configurar logo o cliente PVR e activar o live tv no kodi
