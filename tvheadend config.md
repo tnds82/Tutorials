@@ -46,7 +46,7 @@
 ###### A configuração “ideal” será criar um user para o admin e respectiva password, mantendo o login client simplesmente activado tal como aparece na imagem.
 ![TVH](http://tnds82.tk/tutorials/images/tvh12.JPG "TVH")
 
-##### Channels - Deverão activar a os canais para poderem escolher a lista pretendida.
+##### Channels - Deverão activar os canais para poderem escolher a lista pretendida.
 ![TVH](http://tnds82.tk/tutorials/images/tvh13_1.PNG "TVH")
 
 ##### DVB-C - Listas disponiveis para cabo
