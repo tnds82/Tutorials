@@ -98,6 +98,6 @@
 ##### Por fim clicar em OK, para gravar todas as configurações efectuadas
 ![TVH](http://tnds82.tk/tutorials/images/tvh25.JPG "TVH")
 
-##### E quando terminar vai aparecer a informação para fazer Restart. Depois de fazer Restart, vamos usufruir
+##### E quando terminar vai aparecer a informação para fazer Restart. Depois de fazer Restart, a configuração fica activa não sendo necessário efectuar mais nenhum passo.
 ![TVH](http://tnds82.tk/tutorials/images/tvh27.JPG "TVH")
 
