@@ -68,7 +68,7 @@
 ![TVH](http://tnds82.tk/tutorials/images/tvh17.JPG "TVH")
 
 ##### Activar Wetek Play se tiverem uma Wetek Play e escolher se é DVB-S ou DVB-C
-###### Nota: Se for activado o DVB-S quando no final fizerem ok e o addon arrancar vai aparecer uma imagem para escolherem qual o LNB que devem activar
+###### Nota: Se for activado o DVB-S quando no final fizerem ok (apenas e só no final da configuração e não apenas nesta fase) o addon arrancar vai aparecer uma imagem para escolherem qual o LNB que devem activar
 ![TVH](http://tnds82.tk/tutorials/images/tvh18.JPG "TVH")
 
 ##### Activar Rpi2 / Generic x64  Caso estejam a utilizar uma RPi2 ou 3 ou um Computador normal com OpenELEC ou LibreELEC instalado e escolher quantas placas tem ligadas, sejam DVB-C ou DVB-S
@@ -77,7 +77,7 @@
 ##### Softcam Config - Serve para configurar o CAs
 ![TVH](http://tnds82.tk/tutorials/images/tvh30.JPG "TVH")
 
-##### Activar o mesmo caso desejem configurar. Caso tenham uma Wetek ou Outro Equipamento e utilizem no proprio equipamento o Addon Oscam deixar nesta configuração "Oscam inside the box" e apenas colocar o ip da Wetek ou do outro equipamento ( verificado logo no 1º passo deste tutorial).
+##### Activar o mesmo caso desejem configurar. Caso tenham uma Wetek ou Outro Equipamento e utilizem no proprio equipamento o Addon Oscam deixar nesta configuração "Oscam inside the box" e apenas colocar o ip da Wetek ou do outro equipamento (verificado logo no 1º passo deste tutorial).
 ![TVH](http://tnds82.tk/tutorials/images/tvh31.JPG "TVH")
 
 ##### Caso tenham o oscam noutro equipamento deverao activar a funçao "Oscam outside the box" e deveram escolher o nome do dvbapi, colocar o IP da maquina que tem o oscam e colocar a porta que tem definida para o dvbapi
